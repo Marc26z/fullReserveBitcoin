@@ -3,7 +3,7 @@
 
 Full Reserve Bitcoin was created to promote the use of Bitcoin as a peer-to-peer electronic cash system used by Mainstreet, not Wallstreet.
 
-My mission is to teach you how to earn [sats](https://www.investopedia.com/terms/s/satoshi.asp), spend [sats](https://www.investopedia.com/terms/s/satoshi.asp and save [sats](https://www.investopedia.com/terms/s/satoshi.asp in the [circular economy](https://thebitcoinmanual.com/articles/btc-circular-economies/).
+My mission is to teach you how to earn [sats](https://www.investopedia.com/terms/s/satoshi.asp), spend [sats](https://www.investopedia.com/terms/s/satoshi.asp) and save [sats](https://www.investopedia.com/terms/s/satoshi.asp) in the [circular economy](https://thebitcoinmanual.com/articles/btc-circular-economies/).
 
 **Please like, subscribe,and share this podcast with your friends and family because day trading sucks**. Bitcoiners don't lead pre-coiners to bologna on a block chain.
 
