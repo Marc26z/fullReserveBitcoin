@@ -9,3 +9,7 @@ Please like, subscribe,and share this podcast with your friends and family becau
 
 https://nostree.me/npub1marc26z8nh3xkj5rcx7ufkatvx6ueqhp5vfw9v5teq26z254renshtf3g0
 
+
+## Errata
+
+I do my best to present factual information, but I'm human and may make an error at some point. If you find a mistake, please let me know so I can correct it.
