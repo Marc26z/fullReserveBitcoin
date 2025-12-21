@@ -1,0 +1,88 @@
+
+*First draft*
+
+
+
+Writing a description of a Bitcoin for a general audience wallet is pretty damn hard. Digital signatures are not widely known. I could write about PGP and the Diffie-Hellman key exchange, but no matter how I put it, most readers will scratch their head and ponder the age old question. WTF⁉️
+
+Forget about it. The closest thing I can conjure is a PIN, not the kind on your grandmother's sewing table, but a Personal Identification Number. That's familiar to most modern people, but most people don't really know what that is either. They often call it a PIN Number. The redundancy is ridiculous, but indictive of how little understood they are.
+
+I'm old enough to withdrawing cash from a bank. You can still do this I suppose, but cash is obviously an endangered species. Even weed dealers use payment terminals. I can pay for an ounce of indica with a debit card, but they don't take American Express. That's what Bitcoin is like, cash in a bank. You're the bank. That's the difference.
+
+I'm old enough to remember balancing a checkbook. I didn't write many checks. I used them to pay bills, but I worked as a cashier in college. Most people paid cash back then. Debit cards weren't so popular and we had credit cards, but cash was king. Every now and then, a blue-haired octogenarian would pull out a checkbook while the rest of the line sighed.  
+
+The check writers were slow. They pulled out a little table hidden inside the checkstand. If you look carefully, you can sometimes still see these ancient artifacts. I saw one at Walmart about 13,000 blocks ago(3 months on the Gregorian calendar). 
+
+ WIC was the worst. The Women Infant and Child program allows young mothers buy cheese, milk, cereal, and other stuff for young kids. The state issued separate checks for each item. One check was for cheese. Another check made for milk...You get the idea. It's as if these checks were designed to make my line longer.
+
+ Checks need to be signed the old fashioned way. Checks are the OG KYC form of payment.They contain your address, driver's license, and phone number. If you write a check without having money in the bank, the grocery store will want to find you. That makes sense, but guess what? The deadbeat crooks didn't write checks with their real name, phone number, and address. Sometimes they would sign a check that didn't have any money in it or didn't even exist.
+
+ There was a machine that scanned the check to see if the account was real. The checks had some sort of magnetic ink. It read the numbers and verified the account. The signature could not be verified, not by the cashier anyway. I assume the banks could compare signatures to forged signatures. Presumably, an expert could compare the real signature to a fake signature. Based on this information, bad checks could get reversed and valid checks could be paid. 
+
+## Personal Identification Numbers Are Digital Signatures
+
+![Debit card](https://images.unsplash.com/photo-1613243555988-441166d4d6fd?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGViaXQlMjBjYXJkfGVufDB8fDB8fHww)
+
+Digital signatures use math for verification. They work more like the PIN on a debit card. The debit card is an electronic version of the check. They use chips now, but they used magnetic strips on the good ol days. The debit card reader read the account and let the customer pay by signing this digital check with a PIN. If someone stole your card they would need to guess your 4 digit PIN to spend from your checking account. I know what you're thinking. 9999 chances is easy for a computer to brute force. That's true, but it's not so easy to brute force that in  meatspace 
+
+After about the 3rd or 4th time, it's time to get the manager. This makes the debit card relatively secure. The PIN is the signature one needs to spend from the electronic checking account. It would take too long for a criminal to guess the PIN to make it worth while. People get pissed off at WIC women and blue haired check writers. They're really not going to let someone try a PIN 6,789 times without punching someone.
+
+### A Bitcoin Wallet Is A PIN For Your Bitcoin Checking Account 
+
+We always say, you just need to write down 12 words to have freedom money. It's true, but why? The words are a mnemonic like Please Excuse My Dear Aunt Sally. The sentence is not some magic spell that gets you out of your homework or something. It's a mnemonic design to help you memorize the order of operations. 
+
+Please = Parenthesis 
+Escuse = Exponents
+My =Multiplication
+Dear = Division 
+Aunt= Addition 
+Sally = Subtraction
+
+The BIP39 word list contains 2048 words. Each word is a mnemonic for 4 digits. The word abandon is a mnemonic for 0000.  The word zoo is a mnemonic for 2147.
+
+When you put 12 or 24 of these 4 digit chunks together, you get a long PIN. A computer could brute force a 4 digit PIN in no time, but guessing a 48 digit PIN is almost impossible.Quantum computing doesn't change this. Even if it one day did, we could upgrade to something like [BIP 360](https://bip360.org/). 
+
+#### The Bitcoin Peer To Peer Network Is The Bank
+
+ I always liked the "Be Your Own Bank" meme, but it's inaccurate. The bank is the peer to peer network. The node running runners and miners are the IT department for this bank. They insure the confidentially, iintegrity, access, and non-repudiation of of bitcoin ownership. If this sounds like cyber security jargon, that's because it is.
+
+I propose an analogy contrary to the "be your own bank," that was popular when I began studying *my precious(in Gollum voice)*.  Bitcoin is the bank, a vault in cyberspace. This vault is built on a solid foundation made not from concrete, but the mathematics used in cyber security. 
+
+In block [928,302](
+https://timechaincalendar.com/en/928302)(2025), banks in meat space use a digital currency. I don't mean "$tablecoins" or a CBDC. I mean your checking account is digital dollars. They aren't backed by gold. If it was, how could the price of gold rise compared to the dollar? The money in your bank account is not backed by cotton pieces of paper with pictures of some dude who allegedly chopped down a cherry tree. Of every customer tried to withdraw their money from the bank we would have another 2008 style crash. It's the holiday season. If you've seen It's a Wonderful Life, you'll know what I mean.
+💜
+
+Banks hire cyber security professionals to protect this digital currency, USD. Sometimes a criminal gets ahold of that secret 3 digit number on the back of a credit card. Sometimes that information ends up on TOR, also known as "the dark web." Don't go to the dark web. It's dark. Sure, but someone needs to go in there with a flashlight to see if their information was compromised.
+
+Bitcoin doesn't have a CEO. It's like math. The President of the United States can't sign an executive order that states 2+2=4. Even if(your preferred pronoun or insult) could do such a thing, it doesn't change the laws of math. The high school definition of facism is a partnership between corporations and state. No need to get into Mike Brock's accusations about certain German philosophers cited by a Bitcoiner who likes his philosophy and uses game theory.
+
+Math has no rulers. Copernicus allegedly said Mathematics is the language of the universe." The logos of the universe can be described by math. It doesn't matter if you believe in the math of the universe or not. Saylor says billionaires are not able to defy the laws of gravity. Maybe we'll get a unified theory of gravity one day. Maybe the mysteries of quantum mechanics will be revealed to us, but you still can't defy the laws of gravity.
+
+Bitcoin is math, pure logic, the logos that Jordan Peterson talks about. You don't like Jordan Peterson? Who cares? Math is math. Binary is binary. Hexadecimals are hexadecimals. Math doesn't care about your pathos because math is pure logos. Bitcoin is math, the same math used to ensure confidentiality, integrity, access, and non-repudiation is the same math used by cyber security professionals that work for banks.
+
+Bitcoin may not have a CEO, but it has volunteers. 
+- People running p2p nodes voluntarily do Bitcoin IT.
+- People contributing to Bitcoin Open Source Software often volunteer.
+- Self-Soverign Hodlers are doing their own cyber security.
+- and cyber security.
+
+Bitcoin is a diverse tribe spread all over the planet. We Volunteer for the Bitcoin Network even though, maybe even because it does not have a CEO. Of course jobs exist because these are valuable services, but corporations are not required. There are mining corporations now and sat stacking corporations, but Bitcoin is a bank in cyberspace that requires no corporation.
+
+You either have the keys to spend the Bitcoin or you don't. Some of the more sophisticated wallets are time-locked which means you can't spend unless you have several keys and wait a certain amount of time, but let's not get ahead of ourselves.
+
+What is a key? it's like the PIN on your debit card. Your p2p electronic cash never leaves the bank in cyberspace run by volunteers. That's not so difficult to imagine, right? How often does your fiat bank electronic cash leave the bank? I bet it almost never.
+
+To spend from your Bitcoin debit card, you use a PIN. Remember, the [sats](https://tinyurl.com/satsdef) are in the Bitcoin bank in cyberspace. They can't be transferred to someone else if the owner does not have the PIN, just like a debit card at the grocery store. It's not a credit card, those things want your signature, a zip code, or if the transaction is small enough... Nothing. Credit cards are buy now pay later. Debit cards subtracts the cash balance from your bank account. 
+
+Bitcoin is like that, but instead of a 4 digit PIN, people use 12 or 24 four digit PINS. There are 2048 combinations. According to Yan Pritsker in his book, Inventing Bitcoin, it's more difficult to crack than winning the Powerball  9 times in a row. Do we expect you to remember a 48 or 96;digit PIN? Of course not. We use a menmonic instead. 
+
+The digits are represented by one of 2048 words. Each word represents a 4 digit number. 
+- The word abandon = 0000
+- The word zoo = 2047.
+
+
+Since this is a little complex, I think it's better to show people how this works in a video.
+
+ToDo: Video
+
+
