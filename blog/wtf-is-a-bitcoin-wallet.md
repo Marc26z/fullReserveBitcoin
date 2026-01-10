@@ -9,11 +9,12 @@ Like [Satoshi says]([https://satoshi.nakamotoinstitute.org/posts/bitcointalk/167
 It's easy to write about Bitcoin to nostr nerds and stacker news enthusiasts, but **it's more difficult to write about our beloved peer-to-peer network and digital signatures to socially adept people**. Socially adept people pay for fancy shoes, fancy pants, and fancy conference tickets. These things signal trust.  [Shawn Yaeger has an awesome podcast about the way trust is changing in the electronic age]([https://fountain.fm/show/Mk0fJte5vrfiDQ5RyCZd](https://fountain.fm/show/Mk0fJte5vrfiDQ5RyCZd)). Much of this is centered around cryptography because it gives us the super-power of [non-repudiation]([https://www.geeksforgeeks.org/computer-networks/what-is-non-repudiation/](https://www.geeksforgeeks.org/computer-networks/what-is-non-repudiation/)). This will be increasingly important in a world where everyone thinks everyone else is an AI bot.
 
 But first, you should learn:
-- Bitcoin is peer=-to-peer electronic cash
+- Bitcoin is peer-to-peer electronic cash
+- Bitcoin is not actually held in a bitcoin wallet like paper fiat money
+- This electronic cash is held on a peer-to-peer network like BitTorrent where people can download free and open source software like [TAILS](https://tails.net/install/download/index.en.html)
+ on a [peer-to-peer network](https://www.geeksforgeeks.org/computer-networks/what-is-p2p-peer-to-peer-process/).
 - Bitcoin is not actually held in a bitcoin wallet like paper fiat money.
-- This electronic cash is held on a peer-to-peer network like BitTorrent where people can download free and open source software like [TAILS]([https://tails.net/install/download/index.en.html](https://tails.net/install/download/index.en.html)) on a [peer-to-peer network]([https://www.geeksforgeeks.org/computer-networks/what-is-p2p-peer-to-peer-process/](https://www.geeksforgeeks.org/computer-networks/what-is-p2p-peer-to-peer-process/)).
-- Bitcoin is not actually held in a bitcoin wallet like paper fiat money.
-- Economics nerds like the way Saifadeen Amous Describes this p2p network in his book,[The Bitcoin Standard]([https://academy.saifedean.com/product/tbs-hardcover/](https://academy.saifedean.com/product/tbs-hardcover/))
+- Economics nerds like the way Saifedean Ammous describes this p2p network in his book,[The Bitcoin Standard](https://academy.saifedean.com/product/tbs-hardcover/)
 - I describe a bitcoin private key composed of 12 words as 12 PIN's. For a general audiance, that means a big "PIN number."
 - If you are the only person with this PIN, nobody can spend your bitcoin, even if you're stuck in a country that bans your gold, social credit score, the usefullness of your national currencies value, or whatever.
 - If you lose this PIN, you hodl forever. [Like Satoshi said]():
