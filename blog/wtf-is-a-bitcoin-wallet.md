@@ -35,4 +35,4 @@ Bitcoin is not dead. It's F-You money. The socially adept people tell me that ph
 
 [931627]([https://timechaincalendar.com/en/block/931627/](https://timechaincalendar.com/en/block/931627))
 
-[🧡Give Value Back🧡]([https://tinyurl.com/givevalueback1](https://tinyurl.com/givevalueback1))
+[🧡Give Value Back🧡](https://tinyurl.com/givevalueback1](https://tinyurl.com/givevalueback1)
