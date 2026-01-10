@@ -1,4 +1,4 @@
-![Busking Quote from [https://dergigi.com/2021/12/30/the-freedom-of-value/](https://dergigi.com/2021/12/30/the-freedom-of-value/)]([https://raw.githubusercontent.com/Marc26z/zapthisblog/18258d5637c9673f87b67f3cf968fcd7525c503f/buskingGigiQuote.png](https://raw.githubusercontent.com/Marc26z/zapthisblog/18258d5637c9673f87b67f3cf968fcd7525c503f/buskingGigiQuote.png))
+
 
 The first time I volunteered for a Bitcoin conference I met many bitcoiners for the first time. I'm what some people might call socially awkward. We were called nerds back on my day. As a nerd, it's difficult for me to talk to people about Bitcoin. Most of the time people don't even understand the concept I am talking about: Peer-To-Peer electronic cash.
 
