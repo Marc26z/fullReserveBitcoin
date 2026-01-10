@@ -1,4 +1,4 @@
-
+![WTF Is A Bitcoin Wallet Art](https://raw.githubusercontent.com/Marc26z/fullReserveBitcoin/7adad340d9ed8325045f53e1af6f02ea3cdb4738/WTFIsABitcoinWallet_1.jpg)
 
 The first time I volunteered for a Bitcoin conference I met many bitcoiners for the first time. I'm what some people might call socially awkward. We were called nerds back on my day. As a nerd, it's difficult for me to talk to people about Bitcoin. Most of the time people don't even understand the concept I am talking about: Peer-To-Peer electronic cash.
 
